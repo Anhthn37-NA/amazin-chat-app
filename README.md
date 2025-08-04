@@ -41,31 +41,31 @@ A real-time chat application built with **Flutter** and **Firebase**, supporting
 ## 📸 Screenshots
 
 - 🆕 Sign Up
-  ![Sign Up](assets/images/screenshots/sign_up.png)
+  ![Sign Up](assets/screenshots/sign_up.png)
 
 - 🔑 Sign In
-  ![Sign In](assets/images/screenshots/sign_in.png)
+  ![Sign In](assets/screenshots/sign_in.png)
 
 - 🔐 Google Sign In
-  ![Google Sign In](assets/images/screenshots/google_sign_in.png)
+  ![Google Sign In](assets/screenshots/google_sign_in.png)
 
 - 🏠 Home
-![Home](assets/images/screenshots/home.png)
+![Home](assets/screenshots/home.png)
 
 - 💬 Room Chat
-![Room Chat](assets/images/screenshots/room_chat.png)
+![Room Chat](assets/screenshots/room_chat.png)
 
 - 🔎 Search
-![Search](assets/images/screenshots/search.png)
+![Search](assets/screenshots/search.png)
 
 - ⚙️ Options
-![Options](assets/images/screenshots/options.png)
+![Options](assets/screenshots/options.png)
 
 - 🖼️ Update Avatar
-![Update Avatar](assets/images/screenshots/update_avatar.png)
+![Update Avatar](assets/screenshots/update_avatar.png)
 
 - 👤 Update Profile
-![Update Profile](assets/images/screenshots/update_profile.png)
+![Update Profile](assets/screenshots/update_profile.png)
 
 
 ## 🚀 Getting Started
