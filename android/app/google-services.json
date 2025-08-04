@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "448792706897",
+    "project_id": "achat-5437b",
+    "storage_bucket": "achat-5437b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448792706897:android:258e0386d99a3cad8edd70",
+        "android_client_info": {
+          "package_name": "com.anhflutter.achat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUIP3_a6O3nazCbukqHB91-Em7TyFXdcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
