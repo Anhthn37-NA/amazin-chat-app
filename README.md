@@ -78,6 +78,6 @@ A real-time chat application built with **Flutter** and **Firebase**, supporting
 ### ⚙️ Setup
 
 ```bash
-git clone https://github.com/yourusername/achat.git
-cd achat
+git clone https://github.com/Anhthn37-NA/amazin-chat-app.git
+cd amazin-chat-app
 flutter pub get
