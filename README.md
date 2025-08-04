@@ -40,32 +40,32 @@ A real-time chat application built with **Flutter** and **Firebase**, supporting
 
 ## 📸 Screenshots
 
-- 🆕 Sign Up
-  ![Sign Up](assets/screenshots/sign_up.png)
+- 🆕 Sign Up  
+  <img src="assets/screenshots/sign_up.png" width="300" />
 
-- 🔑 Sign In
-  ![Sign In](assets/screenshots/sign_in.png)
+- 🔑 Sign In  
+  <img src="assets/screenshots/sign_in.png" width="300" />
 
-- 🔐 Google Sign In
-  ![Google Sign In](assets/screenshots/google_sign_in.png)
+- 🔐 Google Sign In  
+  <img src="assets/screenshots/google_sign_in.png" width="300" />
 
-- 🏠 Home
-![Home](assets/screenshots/home.png)
+- 🏠 Home  
+  <img src="assets/screenshots/home.png" width="300" />
 
-- 💬 Room Chat
-![Room Chat](assets/screenshots/room_chat.png)
+- 💬 Room Chat  
+  <img src="assets/screenshots/room_chat.png" width="300" />
 
-- 🔎 Search
-![Search](assets/screenshots/search.png)
+- 🔎 Search  
+  <img src="assets/screenshots/search.png" width="300" />
 
-- ⚙️ Options
-![Options](assets/screenshots/options.png)
+- ⚙️ Options  
+  <img src="assets/screenshots/options.png" width="300" />
 
-- 🖼️ Update Avatar
-![Update Avatar](assets/screenshots/update_avatar.png)
+- 🖼️ Update Avatar  
+  <img src="assets/screenshots/update_avatar.png" width="300" />
 
-- 👤 Update Profile
-![Update Profile](assets/screenshots/update_profile.png)
+- 👤 Update Profile  
+  <img src="assets/screenshots/update_profile.png" width="300" />
 
 
 ## 🚀 Getting Started
